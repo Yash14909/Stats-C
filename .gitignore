@@ -1,0 +1,16 @@
+
+### ✅ `.gitignore`
+```gitignore
+# Ignore compiled binary
+stats
+
+# Ignore object files
+*.o
+
+# Ignore backup/swap files
+*~
+*.swp
+
+# Ignore CSV test data
+data.csv
+
