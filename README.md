@@ -31,7 +31,7 @@ Then run:
 14.3
 15.8
 10.0
-11.6
+11.6 ...........................infinite
 
 📦 Dependencies
 Standard C libraries: stdio.h, stdlib.h, string.h, math.h
